@@ -1,6 +1,6 @@
 ### Geographic source of *Oryctes rhinoceros* DNA for GeneBank CO1 sequences
 
-Data downloaded by [get_GenBank_data.](get_GenBank_data.py)
+Data downloaded by [get_GenBank_data.py](get_GenBank_data.py)
 
 Click on sequnce IDs to see GeneBank metadata
 

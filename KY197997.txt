@@ -1,0 +1,79 @@
+LOCUS       KY197997                1491 bp    DNA     linear   INV 18-OCT-2017
+DEFINITION  Oryctes rhinoceros isolate BR051 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   KY197997
+VERSION     KY197997.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryctes rhinoceros (rhinoceros beetle)
+  ORGANISM  Oryctes rhinoceros
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+            Scarabaeiformia; Scarabaeidae; Dynastinae; Oryctes.
+REFERENCE   1  (bases 1 to 1491)
+  AUTHORS   Reil,J.B., San Jose,M. and Rubinoff,D.
+  TITLE     Low variation in nuclear and mitochondrial DNA inhibits resolution
+            of invasion pathways across the Pacific for the coconut rhinoceros
+            beetle (Scarabeidae: Oryctes rhinoceros)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1491)
+  AUTHORS   Reil,J.B., San Jose,M. and Rubinoff,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2016) Plant and Environmental Protection
+            Sciences, University of Hawaii at Manoa, 3050 Maile Way Rm 310,
+            Honolulu, HI 96822, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 7.1.9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1491
+                     /organism="Oryctes rhinoceros"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BR051"
+                     /db_xref="taxon:72550"
+     gene            <1..>1491
+                     /gene="COI"
+     CDS             <1..>1491
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ATJ26487.1"
+                     /translation="TLYFLFGSWSGMVGTSLSLLIRAELGTPGSLIGDDQIYNVIVTA
+                     HAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLLASSLV
+                     ENGAGTGWTVYPPLSANIAHSGASVDLAIFSLHLAGISSILGAVNFITTVINMRSTGM
+                     TFDRTPLFVWSVMLTAILLLLSLPVLAGAITMLLTDRNINTSFFDPAGGGDPILYQHL
+                     FXXXXHPEVYILILPGFGMISHIISQESSKKETFGTLGMIYAMMAIGLLGFIVWAHHM
+                     FTVGMDVDTRAYFTSATMIIAVPTGIKIFSWLATFHGSQLSYSPSLLWSLGFVFLFTV
+                     GGLTGVILANSSIDIILHDTYYVVAHFHYVLSMGAVFAIMAGFIHWFPLFTGLMMNNK
+                     FLKIQFITMFVGVNMTFFPQHFLGLSGMPRRYSDYPDAYTTWNVISSIGSLISLVSIF
+                     IFLFIIWDSFVSMRKTLSPLSMPTSIEWMQKLPPAEHSYSELPMLT"
+ORIGIN      
+        1 aacattatac ttcctattcg gcagatggtc aggaatagta ggaacatctt taagtttgtt
+       61 aatccgagca gagttgggaa ctcccggctc tttaattgga gatgatcaaa tttataacgt
+      121 tattgttaca gctcatgctt ttatcataat tttttttata gttatgccta ttataattgg
+      181 aggtttcgga aattgacttg ttccattaat acttggagcc ccagatatag catttccacg
+      241 aataaataac ataagatttt gacttcttcc tccctcttta actctacttc tagcaagaag
+      301 actagtagaa aacggtgcag gaactggttg aacagtatat cctcccctct ctgcaaatat
+      361 tgcccataga ggagcatcag tagacttagc aatttttaga cttcatcttg ccggaatttc
+      421 atcaattcta ggggctgtaa acttcattac tactgtaatt aatatacgat caaccggaat
+      481 aacatttgat cgtactcccc tatttgtctg atctgtcata ctaaccgcta tccttcttct
+      541 actgtcctta cctgttctag ccggtgcaat taccatactt ctaacagacc gaaatattaa
+      601 tacatcattt tttgatccag caggaggagg agatccaatt ttatatcaac acctattcnn
+      661 nnnnnnnnna cacccagagg tatacatttt aattctacct gggtttggta taatttcaca
+      721 catcattaga caagaaagaa gaaaaaagga aaccttcgga actttaggaa taatctatgc
+      781 gatgatagca attggacttt taggatttat tgtctgagcc caccatatat ttacagttgg
+      841 tatagacgtt gatacacgag catacttcac atcagctaca ataattattg ctgttcctac
+      901 aggaattaaa atttttagat gactagctac attccatggg tcccaattaa gatactcacc
+      961 ttctctctta tgatcattag gattcgtatt cctattcaca gtggggggat taacaggtgt
+     1021 aattctagcc aattcatcaa ttgatattat tcttcatgat acttattatg tagtagccca
+     1081 tttccactac gttttatcaa taggagcagt atttgccatt atagctggtt ttattcactg
+     1141 attccctcta tttacaggtc taataataaa caataagttc ttaaagatcc aattcatcac
+     1201 aatatttgtt ggagtaaaca taaccttttt ccctcaacac ttccttggat taagaggtat
+     1261 accacgacga tattccgact atcctgacgc ttacactaca tgaaacgtaa tctcatcaat
+     1321 tggttctcta atttcattag tcagaatttt catctttcta tttattattt gagacagatt
+     1381 cgtatcaata cgaaaaacac tctcacctct aagaatacct acatctatcg aatgaataca
+     1441 aaaacttccc ccagctgaac atagatactc tgaacttcca atattaacta a
+//
+

@@ -1,0 +1,59 @@
+LOCUS       MN809507                 621 bp    DNA     linear   INV 01-APR-2020
+DEFINITION  Oryctes rhinoceros isolate PNG_(New_Britain)_Hap#1 cytochrome c
+            oxidase subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MN809507
+VERSION     MN809507.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryctes rhinoceros (rhinoceros beetle)
+  ORGANISM  Oryctes rhinoceros
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+            Scarabaeiformia; Scarabaeidae; Dynastinae; Oryctes.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Etebari,K. and Furlong,M.J.
+  TITLE     Genetic Admixture between Mitochondrial Lineages of Coconut
+            Rhinoceros Beetle (Oryctes rhinoceros) and Widespread Incidence of
+            Oryctes Nudivirus in South Pacific Islands
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Etebari,K. and Furlong,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-DEC-2019) School of Biological Sciences, The
+            University of Queensland, The University of Queensland, St Lucia,
+            Qld 4072, Australia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Oryctes rhinoceros"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PNG_(New_Britain)_Hap#1"
+                     /db_xref="taxon:72550"
+     gene            <1..>621
+                     /gene="COX1"
+     CDS             <1..>621
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QGU83672.1"
+                     /translation="FGSWSGMVGTSLSLLIRAELGTPGSLIGDDQIYNVIVTAHAFIM
+                     IFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLLASSLVENGAG
+                     TGWTVYPPLSANIAHSGASVDLAIFSLHLAGISSILGAVNFITTVINMRSTGMTFDRT
+                     PLFVWSVMLTAILLLLSLPVLAGAITMLLTDRNINTSFFDPAGGGDP"
+ORIGIN      
+        1 ttcggcagat ggtcaggaat agtaggaaca tctttaagtt tgttaatccg agcagagttg
+       61 ggaactcccg gctctttaat tggagatgat caaatttata acgttattgt tacagctcat
+      121 gcttttatca taattttttt tatagttatg cctattataa ttggaggttt cggaaattga
+      181 cttgttccat taatacttgg agccccagat atagcatttc cacgaataaa taatataaga
+      241 ttttgacttc ttcctccctc tttaactcta cttctagcaa gaagactagt agaaaacggt
+      301 gcaggaactg gttgaacagt atatcccccc ctctctgcaa atattgccca tagaggagca
+      361 tcagtagact tagcaatttt tagacttcat cttgccggaa tttcatcaat tctaggggct
+      421 gtaaacttca ttactactgt aattaatata cgatcaaccg gaataacatt tgatcgtact
+      481 cccctatttg tctgatctgt tatactaacc gctatccttc ttctactgtc cttacctgtt
+      541 ctagcaggtg caattactat acttctaaca gaccgaaata ttaatacatc attttttgat
+      601 ccagcaggag gaggagatcc a
+//
+

@@ -1,0 +1,60 @@
+LOCUS       KY313849                 676 bp    DNA     linear   INV 31-DEC-2017
+DEFINITION  Oryctes rhinoceros isolate Diego_Garcia-2 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KY313849
+VERSION     KY313849.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryctes rhinoceros (rhinoceros beetle)
+  ORGANISM  Oryctes rhinoceros
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+            Scarabaeiformia; Scarabaeidae; Dynastinae; Oryctes.
+REFERENCE   1  (bases 1 to 676)
+  AUTHORS   Marshall,S.D.G.
+  TITLE     A new, virus-free haplotype of the coconut rhinoceros beetle
+            (Oryctes rhinoceros) invades the Pacific region
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 676)
+  AUTHORS   Marshall,S.D.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) Lincoln Research Centre, Agresearch,
+            Private bag 4147, Christchurch, Canterbury 8140, New Zealand
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: geneious v. 8.0.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..676
+                     /organism="Oryctes rhinoceros"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Diego_Garcia-2"
+                     /db_xref="taxon:72550"
+     gene            <1..>676
+                     /gene="COI"
+     CDS             <1..>676
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="APL97130.1"
+                     /translation="DIGTLYFLFGSWSGMVGTSLSLLIRAELGTPGSLIGDDQIYNVI
+                     VTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLLAS
+                     SLVENGAGTGWTVYPPLSANIAHSGASVDLAIFSLHLAGISSILGAVNFITTVINMRS
+                     TGMTFDRTPLFVWSVMLTAILLLLSLPVLAGAITMLLTDRNINTSFFDPAGGGDPILY
+                     QHLFWFF"
+ORIGIN      
+        1 gatattggaa cattatactt cctattcggc agatggtcag gaatagtagg aacatcttta
+       61 agtttgttaa tccgagcaga gttgggaact cccggctctt taattggaga tgatcaaatt
+      121 tataacgtta ttgttacagc tcatgctttt atcataattt tttttatagt tatgcctatt
+      181 ataattggag gtttcggaaa ttgacttgtt ccattaatac ttggagcccc agatatagca
+      241 tttccacgaa taaataacat aagattttga cttcttcctc cctctttaac tctacttcta
+      301 gcaagaagac tagtagaaaa cggtgcagga actggttgaa cagtatatcc tcccctctct
+      361 gcaaatattg cccatagagg agcatcagta gacttagcaa tttttagact tcatcttgcc
+      421 ggaatttcat caattctagg ggctgtaaac ttcattacta ctgtaattaa tatacgatca
+      481 accggaataa catttgatcg tactccccta tttgtctgat ctgtcatact aaccgctatc
+      541 cttcttctac tgtccttacc tgttctagcc ggtgcaatta ccatacttct aacagaccga
+      601 aatattaata catcattttt tgatccagca ggaggaggag atccaatttt atatcaacac
+      661 ctattctgat tttttg
+//
+

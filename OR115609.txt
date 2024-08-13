@@ -1,0 +1,53 @@
+LOCUS       OR115609                 487 bp    DNA     linear   INV 13-JUN-2023
+DEFINITION  Oryctes rhinoceros voucher DB-1 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OR115609
+VERSION     OR115609.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryctes rhinoceros (rhinoceros beetle)
+  ORGANISM  Oryctes rhinoceros
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+            Scarabaeiformia; Scarabaeidae; Dynastinae; Oryctes.
+REFERENCE   1  (bases 1 to 487)
+  AUTHORS   Mwanza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2023) Behavioral Chemical Ecology Department,
+            International Centre of Insect Physiology and Ecology, Off Mwiki
+            Road, Kasarani, Nairobi 00100, Kenya
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..487
+                     /organism="Oryctes rhinoceros"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="DB-1"
+                     /db_xref="taxon:72550"
+                     /geo_loc_name="Kenya"
+                     /collection_date="31-Jan-2023"
+     gene            <1..>487
+                     /gene="COX1"
+     CDS             <1..>487
+                     /gene="COX1"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="WIM35960.1"
+                     /translation="IGDDQIYNVIVTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPD
+                     MAFPRMNNMSFWLLPPSLTLLLASSLVENGAGTGWSVYPPLSANIAHSGASVDLAIFS
+                     LHLAGISSILGAVNFITTVINMRSTGMTFDRTPLFVWSVMLTAILLLLSLPVLAGAIT
+                     ML"
+ORIGIN      
+        1 taattggaga tgaccaaatt tataacgtta ttgttacagc ccatgctttt atcataattt
+       61 ttttcatagt tatgcctatt ataattggag gattcggaaa ttgacttgtt ccattaatac
+      121 ttggagcccc tgatatagca tttccacgaa taaataatat aagattttga ctactacctc
+      181 cctctttaac tctacttcta gcaagaagtc tagtagaaaa cggagcagga actggatgaa
+      241 gagtatatcc ccccctctca gcaaatattg cccatagagg agcttcagtt gacttagcta
+      301 tttttagact acatcttgcc ggtatttcat caattctagg ggctgtaaac ttcattacta
+      361 ctgtaattaa tatacgatca accggaataa catttgatcg tactcctcta tttgtctgat
+      421 ctgttatact aaccgctatc cttcttctac tgtccttacc tgttctagca ggtgcaatta
+      481 ctatact
+//
+

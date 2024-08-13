@@ -1,0 +1,63 @@
+LOCUS       OL546425                 676 bp    DNA     linear   INV 01-DEC-2022
+DEFINITION  Oryctes rhinoceros isolate Sol_Is_20-560 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   OL546425
+VERSION     OL546425.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryctes rhinoceros (rhinoceros beetle)
+  ORGANISM  Oryctes rhinoceros
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+            Scarabaeiformia; Scarabaeidae; Dynastinae; Oryctes.
+REFERENCE   1  (bases 1 to 676)
+  AUTHORS   Marshall,S.D., Paudel,S., Mansfield,S., Richards,N.K., Tsatsia,F.,
+            Fanai,C., Suda,G. and Jackson,T.A.
+  TITLE     Coconut rhinoceros beetle in Solomon Islands: a tale of two
+            invasions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 676)
+  AUTHORS   Richards,N.K. and Marshall,S.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-NOV-2021) Resilient Agriculture, AgResearch, 1365
+            Springs Road, Lincoln, Canterbury 7674, New Zealand
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..676
+                     /organism="Oryctes rhinoceros"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Sol_Is_20-560"
+                     /db_xref="taxon:72550"
+                     /geo_loc_name="Solomon Islands: Anglican Church_Gizo"
+                     /lat_lon="8.105365 S 156.836059 E"
+                     /collection_date="2019-11-25"
+     gene            <1..>676
+                     /gene="COX1"
+     CDS             <1..>676
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="UFA39139.1"
+                     /translation="DIGTLYFLFGSWSGMVGTSLSLLIRAELGTPGSLIGDDQIYNVI
+                     VTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLLAS
+                     SLVENGAGTGWTVYPPLSANIAHSGASVDLAIFSLHLAGISSILGAVNFITTVINMRS
+                     TGMTFDRTPLFVWSVMLTAILLLLSLPVLAGAITMLLTDRNINTSFFDPAGGGDPILY
+                     QHLFWFF"
+ORIGIN      
+        1 gatattggaa cattatactt cctattcggc agatggtcag gaatagtagg aacatcttta
+       61 agtttgttaa tccgagcaga gttgggaact cccggctctt taattggaga tgatcaaatt
+      121 tataacgtta ttgttacagc tcatgctttt atcataattt tttttatagt tatgcctatt
+      181 ataattggag gtttcggaaa ttgacttgtt ccattaatac ttggagcccc agatatagca
+      241 tttccacgaa taaataatat aagattttga cttcttcctc cctctttaac tctacttcta
+      301 gcaagaagac tagtagaaaa cggtgcagga actggttgaa cagtatatcc ccccctctct
+      361 gcaaatattg cccatagagg agcatcagta gacttagcaa tttttagact tcatcttgcc
+      421 ggaatttcat caattctagg ggctgtaaac ttcattacta ctgtaattaa tatacgatca
+      481 accggaataa catttgatcg tactccccta tttgtctgat ctgttatact aaccgctatc
+      541 cttcttctac tgtccttacc tgttctagca ggtgcaatta ctatacttct aacagaccga
+      601 aatattaata catcattttt tgatccagca ggaggaggag atccaatttt atatcaacac
+      661 ctattctgat tttttg
+//
+

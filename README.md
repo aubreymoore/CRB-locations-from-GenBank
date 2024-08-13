@@ -4,7 +4,7 @@ Data downloaded by [get_GenBank_data.](get_GenBank_data.py)
 
 Click on sequnce IDs to see GeneBank metadata
 
-sequence ID | location from GeneBank metadata
+sequence ID | location from GenBank metadata
 ------      | ----
 [OL546428](OL546428.txt) | Solomon Islands
 [OL546425](OL546425.txt) | Solomon Islands
@@ -16,4 +16,4 @@ sequence ID | location from GeneBank metadata
 [MN809502](MN809502.txt) | probably Samoa
 [KY313849](KY313849.txt) | probably Diego Garcia
 [KY197997](KY197997.txt) | possibly Hawaiian Islands
-[KY313856](KY313856.txt) | Malaysia# CRB-locations-from-GenBank
+[KY313856](KY313856.txt) | Malaysia
